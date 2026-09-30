@@ -4,20 +4,21 @@ I build **free interactive CBT & mental health tools** with vanilla JavaScript. 
 
 ## 🔧 What I Build
 
-- **[cbt-toolkit](https://github.com/alexcoledev/cbt-toolkit)** — 24 free interactive CBT tools (anxiety, OCD, ADHD, PTSD, procrastination, perfectionism, social anxiety, test anxiety, and more). **157 cloners**, 445 clones, all client-side.
+- **[cbt-toolkit](https://github.com/alexcoledev/cbt-toolkit)** — 24 free interactive CBT tools (anxiety, OCD, ADHD, PTSD, procrastination, perfectionism, social anxiety, test anxiety, and more). **226 unique cloners**, 589 clones, all client-side.
 - **[CBT Thought Analyzer API](https://cbt-thought-analyzer.onrender.com)** — Detects cognitive distortions in text. Live on Render + RapidAPI.
 - **[Procrastination Pattern Detector](https://cbt-thought-analyzer.onrender.com/procrastination)** — 8 procrastination patterns with CBT interventions.
 - **[Attachment Style Detector](https://cbt-thought-analyzer.onrender.com/attachment)** — 4 attachment styles based on Bartholomew (1990).
 
 ## 💰 Support the Work
 
+- **[Become a $1 Supporter](https://4043969836017.gumroad.com/l/qwxzm)** — Get an exclusive CBT Quick Reference Card PDF + keep all 36 tools free. First 10 supporters get recognized in the README.
 - **[CBT Toolkit Bundle - $4.99](https://4043969836017.gumroad.com/l/qwxzm)** — All 24 tools + 3 API detectors + Notion template in one download.
-- The individual tools are **free forever**. The bundle is for convenience + curation + supporting development.
+- The individual tools are **free forever**. Your support keeps them that way.
 
 ## ✍️ Writing
 
-- **[Dev.to](https://dev.to/alexcoledev)** — 83 articles on CBT tooling, open-source monetization, and build-in-public journey.
-- **[Substack](https://alexcole280.substack.com)** — Psychology audience deep-dives.
+- **[Substack](https://alexcole280.substack.com)** — Psychology audience deep-dives on CBT and mental health tooling.
+- **[Dev.to](https://dev.to/alexcoledev)** — 97 articles on CBT tooling, open-source monetization, and build-in-public journey.
 
 ## 🧠 Philosophy
 
@@ -32,4 +33,4 @@ Every tool runs entirely in your browser. Your thoughts never leave your device.
 
 ---
 
-⭐ If any of these tools helped you, consider [starring the repo](https://github.com/alexcoledev/cbt-toolkit).
+⭐ If any of these tools helped you, consider [starring the repo](https://github.com/alexcoledev/cbt-toolkit) or [becoming a $1 supporter](https://4043969836017.gumroad.com/l/qwxzm).
